@@ -5,7 +5,7 @@ Personal config for endeavourOS bspwm, with the rosepine theme.
 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://media.discordapp.net/attachments/911820541860646963/1120845272956801024/screenshot-2023-06-20_183845.png?width=1177&height=662 "Logo Title Text 2"
 
 ## Requirements
 * nvim
