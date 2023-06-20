@@ -89,14 +89,14 @@ mv bspwmrc ~/.config/bspwm/
 
 ## Nvim personal keymaps
 
-### '<leader>q'
+### "<leader>q"
 > Quickexit nvim
-### '<leader>w'
+### "<leader>w"
 > Quicksave + java formatting with clang
 ```
 :Neoformat<cr>:w<cr>
 ```
-### 'YY'
+### "YY"
 > Quickcopy a full function
 ```
 va{Vy
