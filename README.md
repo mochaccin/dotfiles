@@ -88,7 +88,7 @@ mv bspwmrc ~/.config/bspwm/
 > adapters for the polybar modules can vary, so remember to change them in case they aren't working.
 
 ## Nvim personal keymaps
-`<leader>` defaults to `space`
+> `<leader>` defaults to `space`
 ### Quickexit nvim
 `<leader>q`
 ### Quicksave + java formatting with clang
