@@ -13,11 +13,11 @@ Personal config for endeavourOS bspwm, with the rosepine theme.
 
 ![alt text][logo2]
 
-[logo2]: https://media.discordapp.net/attachments/911820541860646963/1120845272956801024/screenshot-2023-06-20_183845.png?width=1177&height=662 "Logo Title Text 2"
+[logo2]: https://media.discordapp.net/attachments/911820541860646963/1120845129675198484/screenshot-2023-06-20_183754.png?width=1177&height=662 "Logo Title Text 2"
 
 ![alt text][logo3]
 
-[logo3]: https://media.discordapp.net/attachments/911820541860646963/1120845272956801024/screenshot-2023-06-20_183845.png?width=1177&height=662 "Logo Title Text 2"
+[logo3]: https://media.discordapp.net/attachments/911820541860646963/1120844499384541286/screenshot-2023-06-20_183536.png?width=1177&height=662 "Logo Title Text 2"
 
 ![alt text][logo4]
 
