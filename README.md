@@ -59,6 +59,7 @@ yay ripgrep
 
 ### Nerd-fonts
 First we need to clone the git repository
+> We need it for the polybar and terminal icons
 ```
 git clone https://github.com/ryanoasis/nerd-fonts
 ```
