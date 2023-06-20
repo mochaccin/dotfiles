@@ -51,6 +51,7 @@ Then we just run the installer
 ```
 ### Nvim, kitty, fish, picom & clang
 Just run yay and the package to install
+> We need clang for formatting with `:Neoformat` to format and save our java code with `<leader>w`
 ```
 yay clang
 ```
