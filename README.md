@@ -22,7 +22,8 @@ Install the openjdk of your liking
 ```
 yay jdk
 ```
-Add the java env variable. > replace '17' with your version
+Add the java env variable.
+> replace '17' with your version
 ```
 export JAVA_HOME=/usr/lib/jvm/java-17-openjdk
 ```
