@@ -16,12 +16,6 @@ Personal config for endeavourOS bspwm, with the rosepine theme.
 
 ## Installation
 
-### Nvim
-You can get it through pacman, yay or pamac.
-```
-yay nvim
-```
-
 ### Java JDK (17)
 
 Install the openjdk of your liking
@@ -45,18 +39,6 @@ OpenJDK Runtime Environment (build 17.0.7+7)
 OpenJDK 64-Bit Server VM (build 17.0.7+7, mixed mode)
 ```
 
-### Clang
-You can get it through yay
-> We only need it for java formatting with `:Neoformat` in nvpunk
-```
-yay clang
-```
-### Ripgrep
-
-```
-yay ripgrep
-```
-
 ### Nerd-fonts
 First we need to clone the git repository
 > We need it for the polybar and terminal icons
@@ -67,4 +49,8 @@ Then we just run the installer
 ```
 ./install.sh
 ```
-
+### Nvim, kitty, fish, picom & clang
+Just run yay and the package to install
+```
+yay clang
+```
