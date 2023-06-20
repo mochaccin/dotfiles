@@ -88,16 +88,16 @@ mv bspwmrc ~/.config/bspwm/
 > adapters for the polybar modules can vary, so remember to change them in case they aren't working.
 
 ## Nvim personal keymaps
-
-### "<leader>q"
-> Quickexit nvim
-### "<leader>w"
-> Quicksave + java formatting with clang
+`<leader>` defaults to `space`
+### Quickexit nvim
+`<leader>q`
+### Quicksave + java formatting with clang
+`<leader>w`
 ```
 :Neoformat<cr>:w<cr>
 ```
-### "YY"
-> Quickcopy a full function
+### Quickcopy a full function
+`YY`
 ```
 va{Vy
 ```
