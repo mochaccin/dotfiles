@@ -55,3 +55,14 @@ Just run yay and the package to install
 ```
 yay clang
 ```
+### Install dotfiles
+Just move the folders to the `.config/` directory
+```
+cd dotfiles/
+mv -t ~/.config/ nvim/ kitty/ fish/ polybar/
+mv picom.conf ~/.config
+mv bspwmrc ~/.config/bspwm/
+```
+> adapters for the polybar modules can vary, so remember to change them in case they aren't working.
+
+
