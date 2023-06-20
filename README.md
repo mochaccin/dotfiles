@@ -9,7 +9,7 @@ Personal config for endeavourOS bspwm, with the rosepine theme.
 
 ![alt text][logo1]
 
-[logo1]: [https://media.discordapp.net/attachments/911820541860646963/1120845272956801024/screenshot-2023-06-20_183845.png?width=1177&height=662](https://cdn.discordapp.com/attachments/911820541860646963/1120841005986480200/screenshot-2023-06-20_182146.png) "Logo Title Text 2"
+[logo1]: https://cdn.discordapp.com/attachments/911820541860646963/1120841005986480200/screenshot-2023-06-20_182146.png "Logo Title Text 2"
 
 ![alt text][logo2]
 
