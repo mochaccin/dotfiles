@@ -1,5 +1,11 @@
-# dotfiles
+# Dotfiles
 Personal config for endeavourOS bspwm, with the rosepine theme.
+
+## Overview
+
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 ## Requirements
 * nvim
