@@ -12,3 +12,4 @@ Personal config for endeavourOS bspwm, with the rosepine theme.
 * fish
 * picom
 * nerd-fonts
+* firefox rose-pine theme
