@@ -1,2 +1,8 @@
 # dotfiles
-My personal dotfiles for endeavourOS with bspwm, lunarvim and polybar
+## Requirements
+* nvim
+* polybar
+* kitty
+* fish
+* picom
+* nerd-fonts
