@@ -1,2 +1,10 @@
 # dotfiles
-My personal dotfiles for endeavourOS with bspwm, lunarvim and polybar
+Personal config for endeavourOS bspwm, with the rosepine theme.
+
+## Requirements
+* nvim
+* polybar
+* kitty
+* fish
+* picom
+* nerd-fonts
