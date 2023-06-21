@@ -40,9 +40,13 @@ Personal config for endeavourOS bspwm, with the rosepine theme.
 
 ### Java JDK (17)
 
-Install the openjdk of your liking
+Download the JDK of your liking from [oracle downloads](https://www.oracle.com/java/technologies/downloads/#java17)
+and unzip it.
 ```
-yay jdk
+cd Downloads/
+tar zxvf jdk-17_linux-x64_bin.tar.gz
+mv jdk-17_linux-x64_bin.tar.gz /usr/lib/jvm/
+archlinux-java set jdk-17.0.7
 ```
 Add the java env variable.
 > replace '17' with your version
