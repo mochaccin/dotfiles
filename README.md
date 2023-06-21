@@ -60,9 +60,9 @@ java -version
 ```
 > It should display something among the lines of
 ```
-openjdk version "17.0.7" 2023-04-18
-OpenJDK Runtime Environment (build 17.0.7+7)
-OpenJDK 64-Bit Server VM (build 17.0.7+7, mixed mode)
+java version "17.0.7" 2023-04-18 LTS
+Java(TM) SE Runtime Environment (build 17.0.7+8-LTS-224)
+Java HotSpot(TM) 64-Bit Server VM (build 17.0.7+8-LTS-224, mixed mode, sharing)
 ```
 
 ### Nerd-fonts
