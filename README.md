@@ -26,7 +26,7 @@ Personal config for endeavourOS bspwm, with the rosepine theme.
 ## Requirements
 * nvim
 * java jdk
-* clang > for java formatting
+* clang
 * ripgrep
 * bspwm
 * polybar
